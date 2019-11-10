@@ -1,0 +1,5 @@
+---
+
+  - name : ping worker
+    command: echo blbl
+  

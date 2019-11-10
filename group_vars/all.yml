@@ -1,0 +1,5 @@
+postgres_port : 5432
+poll_port : 80
+worker_port :
+result_port : 80
+redis_port : 6379

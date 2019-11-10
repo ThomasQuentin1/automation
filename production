@@ -1,0 +1,7 @@
+
+[vm]
+postgres ansible_host=167.172.161.14
+poll ansible_host=165.22.25.97
+worker ansible_host=167.172.171.224
+result ansible_host=167.172.168.201
+redis ansible_host=134.209.242.171
